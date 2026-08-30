@@ -1,4 +1,4 @@
-Version = 7.5
-Title = Zone Panel V7.2 [Pro]
-Description = Új verzió! Javítottuk a ban rendszert, gyorsabb a panel, és új témák érkeztek.
+Version = 8.0
+Title = Zone Panel V8.0 [Pro]
+Description = New Version! Bug Fixed
 Image = 1234567890
