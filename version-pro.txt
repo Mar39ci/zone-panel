@@ -1,4 +1,8 @@
-Version = 9.0
-Title = Zone Panel V9.0 [Pro]
-Description = New Version. Dowload From Parcel Libry
+Version = 8.0
+Title = Zone Panel V8.0 [Pro]
+Description = ...frissítés leírása...
 Image = 1234567890
+
+Announce = true
+AnnounceTitle = NYÁRI AKCIÓ!
+AnnounceDescription = Most 25% kedvezmény a Pro panelekre!
