@@ -1,5 +1,5 @@
 Version = 8.0
-Title = Zone Panel V8.0 [Pro]
+Title = Zone Panel V9.0 [Pro]
 Description = ...frissítés leírása...
 Image = 1234567890
 
