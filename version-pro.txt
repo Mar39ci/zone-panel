@@ -1,4 +1,4 @@
-Version = 8.0
-Title = Zone Panel V8.0 [Pro]
-Description = New Version
+Version = 9.0
+Title = Zone Panel V9.0 [Pro]
+Description = New Version. Dowload From Parcel Libry
 Image = 1234567890
