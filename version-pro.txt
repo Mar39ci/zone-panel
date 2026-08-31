@@ -1,8 +1,8 @@
-Version = 9.0
-Title = Zone Panel V9.0 [Pro]
+Version = 7.5
+Title = Zone Panel V7.5 [Pro]
 Description = Hello Everonye! New Update. Dowload From Parcel Library
 Image = 105830632644718
 
-Announce = true
+Announce = false
 AnnounceTitle = Bug Found!
 AnnounceDescription = In Chat Cant Scrool In Mobile
