@@ -4,5 +4,5 @@ Description = ...frissítés leírása...
 Image = 1234567890
 
 Announce = true
-AnnounceTitle = NYÁRI AKCIÓ!
+AnnounceTitle = Announce!
 AnnounceDescription = Most 25% kedvezmény a Pro panelekre!
