@@ -3,6 +3,6 @@ Title = Zone Panel V7.5 [Pro]
 Description = Hello Everonye! New Update. Dowload From Parcel Library
 Image = 105830632644718
 
-Announce = false
+Announce = True
 AnnounceTitle = Bug Found!
-AnnounceDescription = In Chat Cant Scrool In Mobile
+AnnounceDescription = We found a bug where changing the OpenKey in the ServerScript does not work. We will fix these issues as soon as possible.
