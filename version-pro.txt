@@ -1,6 +1,6 @@
-Version = 7.5
-Title = Zone Panel V7.5 [Pro]
-Description = Hello Everonye! New Update. Dowload From Parcel Library
+Version = 8.0
+Title = Zone Panel V8.0 [Pro]
+Description = Updates: +51 New Commands, New AI Chat, Global Commands, F3X Build Tools, Server Restart, 6 Languages (EN, ES, FR, DE, PT, ZH), Chat Translation
 Image = 105830632644718
 
 Announce = False
