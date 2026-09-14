@@ -1,6 +1,6 @@
 Version = 8.0
 Title = Zone Panel V8.0 [Pro]
-Description = Updates: +51 New Commands, New AI Chat, Global Commands, F3X Build Tools, Server Restart, 6 Languages (EN, ES, FR, DE, PT, ZH), Chat Translation. Update In Your Parcel Libray (Myparcel)
+Description = Updates: +51 New Commands, New AI Chat, Global Commands, F3X Build Tools, Server Restart, 6 Languages (EN, ES, FR, DE, PT, ZH), Chat Translation. Update In Your Parcel Libray Or Myparcel
 Image = 105830632644718
 
 Announce = False
