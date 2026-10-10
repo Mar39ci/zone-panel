@@ -1,0 +1,7 @@
+-- ServerScriptService-ben lévő ModuleScript
+local local_admins = {
+    [123456789] = true,
+    [987654321] = true,
+}
+
+return local_admins
