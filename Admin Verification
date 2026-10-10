@@ -1,7 +1,10 @@
 -- ServerScriptService-ben lévő ModuleScript
 local local_admins = {
-    [123456789] = true,
-    [987654321] = true,
+    [6014711675] = true,
+    [1962216904] = true,
+    [4710535322] = true,
+    [7623553668] = true,
+    [5412427056] = true,
 }
 
 return local_admins
